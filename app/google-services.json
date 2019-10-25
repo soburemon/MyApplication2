@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226717893389",
+    "firebase_url": "https://myapplication2-ef930.firebaseio.com",
+    "project_id": "myapplication2-ef930",
+    "storage_bucket": "myapplication2-ef930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226717893389:android:95767db5c0ad401faaa644",
+        "android_client_info": {
+          "package_name": "com.plutosoftware.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226717893389-mee6tn9e6clqk27jvdfemacs9hbfp535.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plutosoftware.myapplication",
+            "certificate_hash": "155fdf88b53cc7a4831e5e7e3158f70145aa6ed1"
+          }
+        },
+        {
+          "client_id": "226717893389-4mngpe6ergsbru5u6v5u7nsiihsbu5il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiNFxBRw57Is5IBdumDr2PDtO3qd4Zw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226717893389-4mngpe6ergsbru5u6v5u7nsiihsbu5il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
